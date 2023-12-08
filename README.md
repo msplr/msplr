@@ -2,6 +2,7 @@
 
 I'm a software engineer from Switzerland who likes robots and embedded systems.
 I'm interested in [non-linear optimization](https://github.com/nuft/nls) and its applications in robotics such as MPC and SLAM.
+As part of the Systems & Behaviour team at [ANYbotics](https://www.anybotics.com/), I'm developing software to build a robotic workforce for industrial inspection.
 
 My main programming language is C++.
 
