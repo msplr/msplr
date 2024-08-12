@@ -1,8 +1,7 @@
 ### Hello World 👋
 
-I'm a software engineer from Switzerland who likes robots and embedded systems.
-I'm interested in [non-linear optimization](https://github.com/nuft/nls) and its applications in robotics such as MPC and SLAM.
-As part of the Systems & Behaviour team at [ANYbotics](https://www.anybotics.com/), I'm developing software to build a robotic workforce for industrial inspection.
+As a robotics software engineer I'm interested in real-time embedded systems, [non-linear optimization](https://github.com/msplr/nls) and its applications in robotics.
+I'm currently working at [ANYbotics](https://www.anybotics.com/), where we're building a robotic workforce for industrial inspection.
 
 My main programming language is C++.
 
@@ -18,7 +17,3 @@ My main programming language is C++.
 - [Vacuum pump controller](https://github.com/cvra/actuator-board) for a robot gripper with a pressure sensor for feedback and connected via CAN bus.
 - [ToF distance and color sensor board](https://github.com/cvra/sensor-board) connected via CAN bus.
 - [Tiny CAN-connected IO board](https://github.com/cvra/can-io-board) featuring 4 digital inputs and 4 PWM outputs 
-
-#### GitHub Stats
-
-[![Michaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuft&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
