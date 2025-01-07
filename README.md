@@ -5,7 +5,7 @@ I'm currently working at [ANYbotics](https://www.anybotics.com/), where we're bu
 
 My main programming language is C++.
 
-#### My open-source work
+#### My open-source contributions
 
 - [OCS2](https://github.com/leggedrobotics/ocs2): A MPC toolbox tailored for switched systems used for legged locomotion and mobile manipulation.
 - [PolyMPC](https://github.com/PREDICT-EPFL/polympc/tree/master): A tool for real-time nonlinear model predictive tracking and path following, for which I implemented an SQP-based nonlinear problem solver.
