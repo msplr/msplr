@@ -1,7 +1,6 @@
 ### Hello World 👋
 
 As a robotics software engineer I'm interested in real-time embedded systems, [non-linear optimization](https://github.com/msplr/nls) and its applications in robotics.
-I'm currently working at [ANYbotics](https://www.anybotics.com/), where we're building a robotic workforce for industrial inspection.
 
 My main programming language is C++.
 
